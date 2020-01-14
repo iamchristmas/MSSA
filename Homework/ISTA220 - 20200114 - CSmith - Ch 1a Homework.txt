@@ -9,7 +9,8 @@ A namespace serves as an organizational unit for delineating properties of objec
 An assembly is compiled code that takes the form of a library and has a unique name. Assemblies allow developers to compartmentalize their code in such a way
 that the library could be provided to another developer so that they may implement features created by the creator of the assembly.
 5.    What is the starting point in a graphical application?
-
+In a UWP application, app.xaml.cs provides the entry point for an application
 6.    What does Build do?
 Build compiles an application.
 7.    What does Debug do?
+Debug runs the application with 
