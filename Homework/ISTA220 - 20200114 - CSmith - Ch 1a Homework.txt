@@ -1,0 +1,15 @@
+
+1.    What is a console app?
+A console app is an appplication where the user interfaces with the application via a command line interface.
+2.    What does Main() (the main method) do in a console application?
+The Maain() method begins the application.
+3.    What is the purpose of a namespace?
+A namespace serves as an organizational unit for delineating properties of objects or methods between one another. 
+4.    What is an assembly?
+An assembly is compiled code that takes the form of a library and has a unique name. Assemblies allow developers to compartmentalize their code in such a way
+that the library could be provided to another developer so that they may implement features created by the creator of the assembly.
+5.    What is the starting point in a graphical application?
+
+6.    What does Build do?
+Build compiles an application.
+7.    What does Debug do?
