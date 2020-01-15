@@ -4,8 +4,9 @@
     "\\HelloWorld",
     "\\HelloWorld\\HelloWorld",
     "\\HelloWorld\\HelloWorld\\bin",
-    "\\HelloWorld\\HelloWorld\\obj"
+    "\\HelloWorld\\HelloWorld\\obj",
+    "\\MathematicalFormulas"
   ],
-  "SelectedNode": "\\HelloWorld\\HelloWorld\\bin",
+  "SelectedNode": "\\MathematicalFormulas\\MathematicalFormulas.sln",
   "PreviewInSolutionExplorer": false
 }
