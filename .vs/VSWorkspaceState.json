@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorld",
-    "\\HelloWorld\\HelloWorld",
-    "\\HelloWorld\\HelloWorld\\bin",
     "\\HelloWorld\\HelloWorld\\obj"
   ],
-  "SelectedNode": "\\HelloWorld\\HelloWorld\\bin",
   "PreviewInSolutionExplorer": false
 }
