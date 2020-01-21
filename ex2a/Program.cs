@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace ex2a
 {
@@ -12,15 +13,17 @@ namespace ex2a
 
         void run()
         {
-            ////Ex 2a.1 Find average of 10 values between 0 and 100
-            //int[] sumOfArray = populateArray();
-            //int sum = sumOfArray.Sum();
-            //Console.WriteLine($"The sum of all of the values you have entered is {sum}");
-            ////Ex 2a.2 Find average of 10 values between 0 and 100
-            //int[] averageOfArray = populateArray();
-            //double average = averageOfArray.Average();
-            //Console.WriteLine($"The average of all of the values you have entered is {average}");
-            //Ex 2a.3 Find average of arbitrary set of values between 0 and 100
+            //Ex 2a.1 Find sum of 10 values between 0 and 100
+            int[] sumOfArray = populateArray();
+            int sum = sumOfArray.Sum();
+            Console.WriteLine($"The sum of all of the values you have entered is {sum}");
+            
+            //Ex 2a.2 Find average of 10 values between 0 and 100
+            int[] averageOfArray = populateArray();
+            double average = averageOfArray.Average();
+            Console.WriteLine($"The average of all of the values you have entered is {average}");
+            
+            //Ex 2a.3 Find average of decalred set of values between 0 and 100
             Console.Write("How many grades are you averaging? ");
             string strOfGrades = Console.ReadLine();
             int intOfGrades = int.Parse(strOfGrades);
@@ -28,6 +31,12 @@ namespace ex2a
             double classAverage = classScores.Average();
             char charAverage = averageToLetter(classAverage);
             Console.WriteLine($"The clas average is {classAverage} .The letter grade average is {charAverage}");
+            
+            //Ex 2a.4 Find average of arbitrary set of values between 0 and 100
+            int[] unkLengthClassScores = populateUnkLength();
+            double bigClassAverage = unkLengthClassScores.Average();
+            char bigCharAverage = averageToLetter(bigClassAverage);
+            Console.WriteLine($"The clas average is {bigClassAverage} .The letter grade average is {bigCharAverage}");
 
 
         }
@@ -53,12 +62,48 @@ namespace ex2a
             }
             else
             {
-                letterGrade = 'F';                
+                letterGrade = 'F';               
             }
             return letterGrade;
         }
         
+        private int[] populateUnkLength()
+        {
+            List<int> values = new List<int>();
+            string newValue;
+            int[] grades = {};
+            bool validString = true;
+            while (validString == true)
+            {
+                Console.Write("Please enter a value between 1 and 100 then enter a blank line to finish inputting grades: ");
+                newValue = Console.ReadLine();
+                validString = checkString(newValue);
+                if (validString == false)
+                {
+                    grades = values.ToArray();
+                }
+                else
+                {
+                    int valueToAdd = int.Parse(newValue);
+                    checkValue(valueToAdd);
+                    values.Add(valueToAdd);
+                }
+            } 
+            return grades;
+        }
 
+        private bool checkString(string stringToCheck)
+        {
+            try
+            {
+                int checkedInt = int.Parse(stringToCheck);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
 
         private int[] populateArray(int size = 10)
         {
@@ -84,7 +129,7 @@ namespace ex2a
                     Console.Write($"The value {value} is not within specified parameters. Please pick a number between 1 and 100: ");
                     string newValue = Console.ReadLine();
                     newValueForOp = int.Parse(newValue);
-                } while (newValueForOp < 1 || newValueForOp > 100);
+                } while (newValueForOp > 100 || newValueForOp < 0);
                 return newValueForOp;
             }
             else
