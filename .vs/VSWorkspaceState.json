@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Hello",
     "\\HelloWorld",
     "\\HelloWorld\\HelloWorld",
     "\\HelloWorld\\HelloWorld\\bin",
     "\\HelloWorld\\HelloWorld\\obj",
+    "\\Hello\\Hello",
     "\\MathematicalFormulas"
   ],
-  "SelectedNode": "\\MathematicalFormulas\\MathematicalFormulas.sln",
+  "SelectedNode": "\\Hello\\Hello.sln",
   "PreviewInSolutionExplorer": false
 }
