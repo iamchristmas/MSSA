@@ -1,0 +1,740 @@
+CompanyName
+----------------------------------------
+Ana Trujillo Emparedados y helados
+Antonio Moreno Taquería
+Bottom-Dollar Markets
+Centro comercial Moctezuma
+Great Lakes Food Market
+Hungry Coyote Import Store
+Laughing Bacchus Wine Cellars
+Lazy K Kountry Store
+Let's Stop N Shop
+Lonesome Pine Restaurant
+Mère Paillarde
+Old World Delicatessen
+Pericles Comidas clásicas
+Rattlesnake Canyon Grocery
+Save-a-lot Markets
+Split Rail Beer & Ale
+The Big Cheese
+The Cracker Box
+Tortuga Restaurante
+Trail's Head Gourmet Provisioners
+White Clover Markets
+
+(21 rows affected)
+
+OrderID     OrderDate
+----------- -----------------------
+10990       1998-04-01 00:00:00.000
+10991       1998-04-01 00:00:00.000
+10992       1998-04-01 00:00:00.000
+10993       1998-04-01 00:00:00.000
+10994       1998-04-02 00:00:00.000
+10995       1998-04-02 00:00:00.000
+10996       1998-04-02 00:00:00.000
+10997       1998-04-03 00:00:00.000
+10998       1998-04-03 00:00:00.000
+10999       1998-04-03 00:00:00.000
+11000       1998-04-06 00:00:00.000
+11001       1998-04-06 00:00:00.000
+11002       1998-04-06 00:00:00.000
+11003       1998-04-06 00:00:00.000
+11004       1998-04-07 00:00:00.000
+11005       1998-04-07 00:00:00.000
+11006       1998-04-07 00:00:00.000
+11007       1998-04-08 00:00:00.000
+11008       1998-04-08 00:00:00.000
+11009       1998-04-08 00:00:00.000
+11010       1998-04-09 00:00:00.000
+11011       1998-04-09 00:00:00.000
+11012       1998-04-09 00:00:00.000
+11013       1998-04-09 00:00:00.000
+11014       1998-04-10 00:00:00.000
+11015       1998-04-10 00:00:00.000
+11016       1998-04-10 00:00:00.000
+11017       1998-04-13 00:00:00.000
+11018       1998-04-13 00:00:00.000
+11019       1998-04-13 00:00:00.000
+11020       1998-04-14 00:00:00.000
+11021       1998-04-14 00:00:00.000
+11022       1998-04-14 00:00:00.000
+11023       1998-04-14 00:00:00.000
+11024       1998-04-15 00:00:00.000
+11025       1998-04-15 00:00:00.000
+11026       1998-04-15 00:00:00.000
+11027       1998-04-16 00:00:00.000
+11028       1998-04-16 00:00:00.000
+11029       1998-04-16 00:00:00.000
+11030       1998-04-17 00:00:00.000
+11031       1998-04-17 00:00:00.000
+11032       1998-04-17 00:00:00.000
+11033       1998-04-17 00:00:00.000
+11034       1998-04-20 00:00:00.000
+11035       1998-04-20 00:00:00.000
+11036       1998-04-20 00:00:00.000
+11037       1998-04-21 00:00:00.000
+11038       1998-04-21 00:00:00.000
+11039       1998-04-21 00:00:00.000
+11040       1998-04-22 00:00:00.000
+11041       1998-04-22 00:00:00.000
+11042       1998-04-22 00:00:00.000
+11043       1998-04-22 00:00:00.000
+11044       1998-04-23 00:00:00.000
+11045       1998-04-23 00:00:00.000
+11046       1998-04-23 00:00:00.000
+11047       1998-04-24 00:00:00.000
+11048       1998-04-24 00:00:00.000
+11049       1998-04-24 00:00:00.000
+11050       1998-04-27 00:00:00.000
+11051       1998-04-27 00:00:00.000
+11052       1998-04-27 00:00:00.000
+11053       1998-04-27 00:00:00.000
+11054       1998-04-28 00:00:00.000
+11055       1998-04-28 00:00:00.000
+11056       1998-04-28 00:00:00.000
+11057       1998-04-29 00:00:00.000
+11058       1998-04-29 00:00:00.000
+11059       1998-04-29 00:00:00.000
+11060       1998-04-30 00:00:00.000
+11061       1998-04-30 00:00:00.000
+11062       1998-04-30 00:00:00.000
+11063       1998-04-30 00:00:00.000
+
+(74 rows affected)
+
+ProductName
+----------------------------------------
+Louisiana Fiery Hot Pepper Sauce
+Northwoods Cranberry Sauce
+
+(2 rows affected)
+
+ProductID   ProductName                              SupplierID  CategoryID  QuantityPerUnit      UnitPrice             UnitsInStock UnitsOnOrder ReorderLevel Discontinued
+----------- ---------------------------------------- ----------- ----------- -------------------- --------------------- ------------ ------------ ------------ ------------
+7           Uncle Bob's Organic Dried Pears          3           7           12 - 1 lb pkgs.      30.00                 15           0            10           0
+51          Manjimup Dried Apples                    24          7           50 - 300 g pkgs.     53.00                 20           0            10           0
+
+(2 rows affected)
+
+EmployeeID  ShipCountry     OrderDate
+----------- --------------- -----------------------
+1           Germany         1996-12-27 00:00:00.000
+1           Germany         1997-12-22 00:00:00.000
+3           Germany         1996-12-23 00:00:00.000
+3           Germany         1997-12-04 00:00:00.000
+3           Germany         1997-12-10 00:00:00.000
+3           Germany         1997-12-16 00:00:00.000
+4           Germany         1997-12-05 00:00:00.000
+6           Germany         1997-12-23 00:00:00.000
+7           Germany         1997-12-25 00:00:00.000
+9           Germany         1997-12-26 00:00:00.000
+
+(10 rows affected)
+
+totalorders discountorders
+----------- --------------
+37          15
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(1 row affected)
+
+
+-------------------------------------------------------------------------------------------------------------------
+Ms. Nancy Davolio 
+Sales Representative
+-------------------------
+Dr. Andrew Fuller 
+Vice President, Sales
+-------------------------
+Ms. Janet Leverling 
+Sales Representative
+-------------------------
+Mrs. Margaret Peacock 
+Sales Representative
+-------------------------
+Mr. Steven Buchanan 
+Sales Manager
+-------------------------
+Mr. Michael Suyama 
+Sales Representative
+-------------------------
+Mr. Robert King 
+Sales Representative
+-------------------------
+Ms. Laura Callahan 
+Inside Sales Coordinator
+-------------------------
+Ms. Anne Dodsworth 
+Sales Representative
+-------------------------
+
+(9 rows affected)
+
+customer                       employee
+------------------------------ ----------
+Alejandra Camino               Andrew
+Alejandra Camino               Margaret
+Alejandra Camino               Nancy
+Alexander Feuer                Andrew
+Alexander Feuer                Janet
+Alexander Feuer                Margaret
+Alexander Feuer                Steven
+Ana Trujillo                   Janet
+Ana Trujillo                   Margaret
+Ana Trujillo                   Robert
+Anabela Domingues              Janet
+Anabela Domingues              Margaret
+Anabela Domingues              Nancy
+Anabela Domingues              Robert
+André Fonseca                  Andrew
+André Fonseca                  Janet
+André Fonseca                  Margaret
+André Fonseca                  Michael
+André Fonseca                  Nancy
+André Fonseca                  Robert
+Ann Devon                      Laura
+Ann Devon                      Margaret
+Ann Devon                      Nancy
+Ann Devon                      Robert
+Annette Roulet                 Andrew
+Annette Roulet                 Janet
+Annette Roulet                 Laura
+Annette Roulet                 Margaret
+Annette Roulet                 Michael
+Annette Roulet                 Nancy
+Annette Roulet                 Robert
+Annette Roulet                 Steven
+Antonio Moreno                 Janet
+Antonio Moreno                 Margaret
+Antonio Moreno                 Nancy
+Antonio Moreno                 Robert
+Aria Cruz                      Andrew
+Aria Cruz                      Anne
+Aria Cruz                      Janet
+Aria Cruz                      Margaret
+Aria Cruz                      Robert
+Aria Cruz                      Steven
+Art Braunschweiger             Janet
+Art Braunschweiger             Laura
+Art Braunschweiger             Margaret
+Art Braunschweiger             Michael
+Art Braunschweiger             Nancy
+Art Braunschweiger             Robert
+Bernardo Batista               Andrew
+Bernardo Batista               Laura
+Bernardo Batista               Margaret
+Bernardo Batista               Michael
+Bernardo Batista               Nancy
+Carine Schmitt                 Andrew
+Carine Schmitt                 Janet
+Carine Schmitt                 Nancy
+Carlos González                Andrew
+Carlos González                Janet
+Carlos González                Laura
+Carlos González                Margaret
+Carlos González                Michael
+Carlos González                Nancy
+Carlos González                Steven
+Carlos Hernández               Andrew
+Carlos Hernández               Anne
+Carlos Hernández               Janet
+Carlos Hernández               Laura
+Carlos Hernández               Margaret
+Carlos Hernández               Michael
+Carlos Hernández               Nancy
+Carlos Hernández               Robert
+Catherine Dewey                Anne
+Catherine Dewey                Janet
+Catherine Dewey                Margaret
+Catherine Dewey                Robert
+Catherine Dewey                Steven
+Christina Berglund             Andrew
+Christina Berglund             Anne
+Christina Berglund             Janet
+Christina Berglund             Laura
+Christina Berglund             Margaret
+Christina Berglund             Nancy
+Christina Berglund             Steven
+Daniel Tonini                  Andrew
+Daniel Tonini                  Margaret
+Daniel Tonini                  Michael
+Dominique Perrier              Andrew
+Dominique Perrier              Janet
+Dominique Perrier              Michael
+Dominique Perrier              Steven
+Eduardo Saavedra               Janet
+Eduardo Saavedra               Laura
+Eduardo Saavedra               Margaret
+Eduardo Saavedra               Nancy
+Elizabeth Brown                Andrew
+Elizabeth Brown                Laura
+Elizabeth Brown                Robert
+Elizabeth Lincoln              Andrew
+Elizabeth Lincoln              Anne
+Elizabeth Lincoln              Janet
+Elizabeth Lincoln              Margaret
+Elizabeth Lincoln              Michael
+Elizabeth Lincoln              Nancy
+Elizabeth Lincoln              Robert
+Felipe Izquierdo               Andrew
+Felipe Izquierdo               Janet
+Felipe Izquierdo               Laura
+Felipe Izquierdo               Margaret
+Felipe Izquierdo               Nancy
+Felipe Izquierdo               Steven
+Fran Wilson                    Andrew
+Fran Wilson                    Janet
+Fran Wilson                    Laura
+Fran Wilson                    Margaret
+Fran Wilson                    Michael
+Fran Wilson                    Nancy
+Francisco Chang                Margaret
+Frédérique Citeaux             Andrew
+Frédérique Citeaux             Anne
+Frédérique Citeaux             Janet
+Frédérique Citeaux             Laura
+Frédérique Citeaux             Margaret
+Frédérique Citeaux             Michael
+Frédérique Citeaux             Steven
+Georg Pipps                    Andrew
+Georg Pipps                    Janet
+Georg Pipps                    Laura
+Georg Pipps                    Margaret
+Georg Pipps                    Michael
+Georg Pipps                    Robert
+Giovanni Rovelli               Andrew
+Giovanni Rovelli               Laura
+Giovanni Rovelli               Margaret
+Giovanni Rovelli               Michael
+Giovanni Rovelli               Nancy
+Giovanni Rovelli               Robert
+Guillermo Fernández            Andrew
+Guillermo Fernández            Laura
+Guillermo Fernández            Nancy
+Guillermo Fernández            Robert
+Guillermo Fernández            Steven
+Hanna Moos                     Anne
+Hanna Moos                     Janet
+Hanna Moos                     Laura
+Hanna Moos                     Margaret
+Hanna Moos                     Michael
+Hari Kumar                     Andrew
+Hari Kumar                     Janet
+Hari Kumar                     Laura
+Hari Kumar                     Michael
+Hari Kumar                     Nancy
+Hari Kumar                     Robert
+Hari Kumar                     Steven
+Helen Bennett                  Andrew
+Helen Bennett                  Anne
+Helen Bennett                  Janet
+Helen Bennett                  Laura
+Helen Bennett                  Margaret
+Helen Bennett                  Michael
+Helen Bennett                  Nancy
+Helvetius Nagy                 Anne
+Helvetius Nagy                 Margaret
+Helvetius Nagy                 Michael
+Henriette Pfalzheim            Andrew
+Henriette Pfalzheim            Janet
+Henriette Pfalzheim            Margaret
+Henriette Pfalzheim            Michael
+Henriette Pfalzheim            Nancy
+Horst Kloss                    Andrew
+Horst Kloss                    Anne
+Horst Kloss                    Janet
+Horst Kloss                    Laura
+Horst Kloss                    Margaret
+Horst Kloss                    Nancy
+Horst Kloss                    Robert
+Horst Kloss                    Steven
+Howard Snyder                  Janet
+Howard Snyder                  Laura
+Howard Snyder                  Margaret
+Howard Snyder                  Michael
+Howard Snyder                  Nancy
+Isabel de Castro               Janet
+Isabel de Castro               Laura
+Isabel de Castro               Robert
+Isabel de Castro               Steven
+Jaime Yorres                   Laura
+Jaime Yorres                   Margaret
+Jaime Yorres                   Michael
+Jaime Yorres                   Nancy
+Janete Limeira                 Andrew
+Janete Limeira                 Laura
+Janete Limeira                 Margaret
+Janete Limeira                 Nancy
+Janete Limeira                 Steven
+Janine Labrune                 Andrew
+Janine Labrune                 Nancy
+Janine Labrune                 Robert
+Jean Fresnière                 Andrew
+Jean Fresnière                 Janet
+Jean Fresnière                 Laura
+Jean Fresnière                 Margaret
+Jean Fresnière                 Michael
+Jean Fresnière                 Nancy
+Jean Fresnière                 Robert
+John Steel                     Laura
+John Steel                     Nancy
+Jonas Bergulfsen               Andrew
+Jonas Bergulfsen               Janet
+Jonas Bergulfsen               Nancy
+Jonas Bergulfsen               Robert
+Jose Pavarotti                 Andrew
+Jose Pavarotti                 Anne
+Jose Pavarotti                 Janet
+Jose Pavarotti                 Laura
+Jose Pavarotti                 Margaret
+Jose Pavarotti                 Michael
+Jose Pavarotti                 Nancy
+Jose Pavarotti                 Robert
+Jose Pavarotti                 Steven
+José Pedro Freyre              Andrew
+José Pedro Freyre              Janet
+José Pedro Freyre              Margaret
+José Pedro Freyre              Nancy
+José Pedro Freyre              Robert
+José Pedro Freyre              Steven
+Jytte Petersen                 Andrew
+Jytte Petersen                 Margaret
+Jytte Petersen                 Robert
+Karin Josephs                  Andrew
+Karin Josephs                  Janet
+Karin Josephs                  Margaret
+Karin Josephs                  Michael
+Karl Jablonski                 Andrew
+Karl Jablonski                 Janet
+Karl Jablonski                 Laura
+Karl Jablonski                 Margaret
+Karl Jablonski                 Nancy
+Karl Jablonski                 Robert
+Karl Jablonski                 Steven
+Laurence Lebihan               Andrew
+Laurence Lebihan               Anne
+Laurence Lebihan               Janet
+Laurence Lebihan               Laura
+Laurence Lebihan               Margaret
+Laurence Lebihan               Nancy
+Laurence Lebihan               Robert
+Laurence Lebihan               Steven
+Lino Rodriguez                 Anne
+Lino Rodriguez                 Janet
+Lino Rodriguez                 Laura
+Lino Rodriguez                 Margaret
+Lino Rodriguez                 Nancy
+Liu Wong                       Janet
+Liu Wong                       Margaret
+Liu Wong                       Robert
+Liz Nixon                      Andrew
+Liz Nixon                      Laura
+Liz Nixon                      Michael
+Liz Nixon                      Nancy
+Lúcia Carvalho                 Andrew
+Lúcia Carvalho                 Laura
+Lúcia Carvalho                 Margaret
+Lúcia Carvalho                 Michael
+Lúcia Carvalho                 Robert
+Lúcia Carvalho                 Steven
+Manuel Pereira                 Laura
+Manuel Pereira                 Nancy
+Maria Anders                   Janet
+Maria Anders                   Margaret
+Maria Anders                   Michael
+Maria Anders                   Nancy
+Maria Larsson                  Andrew
+Maria Larsson                  Janet
+Maria Larsson                  Laura
+Maria Larsson                  Margaret
+Maria Larsson                  Michael
+Maria Larsson                  Nancy
+Maria Larsson                  Robert
+Maria Larsson                  Steven
+Mario Pontes                   Andrew
+Mario Pontes                   Anne
+Mario Pontes                   Janet
+Mario Pontes                   Laura
+Mario Pontes                   Margaret
+Mario Pontes                   Nancy
+Mario Pontes                   Steven
+Martín Sommer                  Anne
+Martín Sommer                  Margaret
+Martine Rancé                  Janet
+Martine Rancé                  Laura
+Martine Rancé                  Margaret
+Martine Rancé                  Michael
+Martine Rancé                  Nancy
+Mary Saveley                   Andrew
+Mary Saveley                   Janet
+Mary Saveley                   Laura
+Mary Saveley                   Margaret
+Mary Saveley                   Nancy
+Matti Karttunen                Andrew
+Matti Karttunen                Janet
+Matti Karttunen                Margaret
+Matti Karttunen                Nancy
+Matti Karttunen                Robert
+Maurizio Moroni                Andrew
+Maurizio Moroni                Anne
+Maurizio Moroni                Laura
+Maurizio Moroni                Margaret
+Maurizio Moroni                Nancy
+Maurizio Moroni                Robert
+Maurizio Moroni                Steven
+Michael Holz                   Anne
+Michael Holz                   Janet
+Michael Holz                   Laura
+Michael Holz                   Margaret
+Michael Holz                   Nancy
+Michael Holz                   Robert
+Miguel Angel Paolino           Andrew
+Miguel Angel Paolino           Janet
+Miguel Angel Paolino           Laura
+Miguel Angel Paolino           Margaret
+Miguel Angel Paolino           Nancy
+Miguel Angel Paolino           Robert
+Palle Ibsen                    Andrew
+Palle Ibsen                    Janet
+Palle Ibsen                    Laura
+Palle Ibsen                    Margaret
+Palle Ibsen                    Michael
+Palle Ibsen                    Nancy
+Palle Ibsen                    Robert
+Paolo Accorti                  Andrew
+Paolo Accorti                  Janet
+Paolo Accorti                  Margaret
+Paolo Accorti                  Nancy
+Pascale Cartrain               Andrew
+Pascale Cartrain               Anne
+Pascale Cartrain               Margaret
+Pascale Cartrain               Michael
+Pascale Cartrain               Nancy
+Pascale Cartrain               Robert
+Pascale Cartrain               Steven
+Patricia McKenna               Andrew
+Patricia McKenna               Anne
+Patricia McKenna               Janet
+Patricia McKenna               Laura
+Patricia McKenna               Margaret
+Patricia McKenna               Michael
+Patricia McKenna               Nancy
+Patricia McKenna               Robert
+Patricio Simpson               Andrew
+Patricio Simpson               Anne
+Patricio Simpson               Laura
+Patricio Simpson               Margaret
+Patricio Simpson               Robert
+Paul Henriot                   Andrew
+Paul Henriot                   Janet
+Paul Henriot                   Michael
+Paul Henriot                   Steven
+Paula Parente                  Anne
+Paula Parente                  Janet
+Paula Parente                  Margaret
+Paula Parente                  Nancy
+Paula Parente                  Robert
+Paula Wilson                   Andrew
+Paula Wilson                   Anne
+Paula Wilson                   Janet
+Paula Wilson                   Laura
+Paula Wilson                   Margaret
+Paula Wilson                   Michael
+Paula Wilson                   Nancy
+Paula Wilson                   Steven
+Pedro Afonso                   Andrew
+Pedro Afonso                   Laura
+Pedro Afonso                   Margaret
+Pedro Afonso                   Nancy
+Peter Franken                  Laura
+Peter Franken                  Margaret
+Peter Franken                  Michael
+Peter Franken                  Nancy
+Peter Franken                  Steven
+Philip Cramer                  Andrew
+Philip Cramer                  Anne
+Philip Cramer                  Janet
+Philip Cramer                  Laura
+Philip Cramer                  Margaret
+Philip Cramer                  Nancy
+Pirkko Koskitalo               Andrew
+Pirkko Koskitalo               Anne
+Pirkko Koskitalo               Janet
+Pirkko Koskitalo               Laura
+Pirkko Koskitalo               Margaret
+Pirkko Koskitalo               Michael
+Pirkko Koskitalo               Nancy
+Pirkko Koskitalo               Steven
+Renate Messner                 Andrew
+Renate Messner                 Anne
+Renate Messner                 Janet
+Renate Messner                 Laura
+Renate Messner                 Margaret
+Renate Messner                 Robert
+Rene Phillips                  Andrew
+Rene Phillips                  Janet
+Rene Phillips                  Laura
+Rene Phillips                  Margaret
+Rene Phillips                  Michael
+Rene Phillips                  Nancy
+Rita Müller                    Andrew
+Rita Müller                    Laura
+Rita Müller                    Margaret
+Rita Müller                    Michael
+Rita Müller                    Nancy
+Rita Müller                    Robert
+Roland Mendel                  Andrew
+Roland Mendel                  Anne
+Roland Mendel                  Janet
+Roland Mendel                  Laura
+Roland Mendel                  Margaret
+Roland Mendel                  Michael
+Roland Mendel                  Nancy
+Roland Mendel                  Robert
+Sergio Gutiérrez               Anne
+Sergio Gutiérrez               Margaret
+Sergio Gutiérrez               Michael
+Sergio Gutiérrez               Nancy
+Simon Crowther                 Andrew
+Simon Crowther                 Janet
+Sven Ottlieb                   Janet
+Sven Ottlieb                   Laura
+Sven Ottlieb                   Margaret
+Sven Ottlieb                   Nancy
+Sven Ottlieb                   Robert
+Thomas Hardy                   Anne
+Thomas Hardy                   Janet
+Thomas Hardy                   Laura
+Thomas Hardy                   Margaret
+Thomas Hardy                   Michael
+Thomas Hardy                   Nancy
+Victoria Ashworth              Andrew
+Victoria Ashworth              Anne
+Victoria Ashworth              Janet
+Victoria Ashworth              Margaret
+Victoria Ashworth              Michael
+Victoria Ashworth              Nancy
+Victoria Ashworth              Robert
+Yang Wang                      Janet
+Yang Wang                      Margaret
+Yang Wang                      Michael
+Yang Wang                      Nancy
+Yang Wang                      Robert
+Yang Wang                      Steven
+Yoshi Latimer                  Janet
+Yoshi Latimer                  Laura
+Yoshi Latimer                  Margaret
+Yoshi Latimer                  Nancy
+Yoshi Tannamuri                Andrew
+Yoshi Tannamuri                Janet
+Yvonne Moncada                 Janet
+Yvonne Moncada                 Laura
+Yvonne Moncada                 Margaret
+Yvonne Moncada                 Robert
+Zbyszek Piestrzeniewicz        Laura
+Zbyszek Piestrzeniewicz        Margaret
+Zbyszek Piestrzeniewicz        Michael
+Zbyszek Piestrzeniewicz        Nancy
+Zbyszek Piestrzeniewicz        Steven
+
+(464 rows affected)
+
+lastname
+--------------------------------------------------------------------------------------------------------------------------------
+Accorti
+Afonso
+Anders
+Ashworth
+Batista
+Bennett
+Berglund
+Bergulfsen
+Bertrand
+Braunschweiger
+Brown
+Camino
+Cartrain
+Carvalho
+Castro
+Chang
+Citeaux
+Cramer
+Crowther
+Cruz
+Devon
+Dewey
+Domingues
+Fernández
+Feuer
+Fonseca
+Franken
+Fresnière
+Freyre
+González
+Gutiérrez
+Hardy
+Henriot
+Hernández
+Holz
+Ibsen
+Izquierdo
+Jablonski
+Josephs
+Karttunen
+Kloss
+Koskitalo
+Kumar
+Labrune
+Larsson
+Latimer
+Lebihan
+Limeira
+Lincoln
+McKenna
+Mendel
+Messner
+Moncada
+Moos
+Moreno
+Moroni
+Müller
+Nagy
+Nixon
+Ottlieb
+Paolino
+Parente
+Pavarotti
+Pereira
+Perrier
+Petersen
+Pfalzheim
+Phillips
+Piestrzeniewicz
+Pipps
+Pontes
+Rancé
+Rodriguez
+Roel
+Roulet
+Rovelli
+Saavedra
+Saveley
+Schmitt
+Simpson
+Snyder
+Sommer
+Steel
+Tannamuri
+Tonini
+Trujillo
+Wang
+Wilson
+Wilson
+Wong
+Yorres
+
+(91 rows affected)
+
+
+Completion time: 2020-01-25T01:01:46.4167468-08:00
