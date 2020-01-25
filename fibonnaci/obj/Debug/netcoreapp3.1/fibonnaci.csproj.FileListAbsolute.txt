@@ -1,0 +1,11 @@
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.exe
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.deps.json
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.json
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.dev.json
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Users\Sticky Keys\source\repos\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Users\Sticky Keys\source\repos\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Users\Sticky Keys\source\repos\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb
