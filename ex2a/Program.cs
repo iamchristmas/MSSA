@@ -29,51 +29,48 @@ namespace ex2a
             int intOfGrades = int.Parse(strOfGrades);
             int[] classScores = populateArray(intOfGrades);
             double classAverage = classScores.Average();
-            char charAverage = averageToLetter(classAverage);
-            Console.WriteLine($"The clas average is {classAverage} .The letter grade average is {charAverage}");
+            averageToLetter(classAverage);
+            Console.WriteLine($"The clas average is {classAverage} .");
             
             //Ex 2a.4 Find average of arbitrary set of values between 0 and 100
             int[] unkLengthClassScores = populateUnkLength();
             double bigClassAverage = unkLengthClassScores.Average();
-            char bigCharAverage = averageToLetter(bigClassAverage);
-            Console.WriteLine($"The clas average is {bigClassAverage} .The letter grade average is {bigCharAverage}");
+            Console.WriteLine($"The class average is {bigClassAverage} ");
+            averageToLetter(bigClassAverage);
 
 
         }
 
-        private char averageToLetter(double classAverage)
+        private void averageToLetter(double classAverage)
         {
-            char letterGrade;
-            if (classAverage >= 100)
+            switch(classAverage)
             {
-                letterGrade = 'A';
+                case double n when n >= 90:
+                    Console.WriteLine("The letter grade average is A");
+                    break;
+                case double n when n >= 80 && n < 90:
+                    Console.WriteLine("The letter grade average is B");
+                    break;
+                case double n when n >= 70 && n < 80:
+                    Console.WriteLine("The letter grade average is C");
+                    break;
+                case double n when n >= 60 && n < 70:
+                    Console.WriteLine("The letter grade average is D");
+                    break;
+                case double n when n < 60:
+                    Console.WriteLine("The letter grade average is F");
+                    break;
             }
-            else if (classAverage >= 80 && classAverage < 90)
-            {
-                letterGrade = 'B';
-            }
-            else if (classAverage >= 70 && classAverage < 80)
-            {
-                letterGrade = 'C';
-            }
-            else if (classAverage >= 60 && classAverage < 70)
-            {
-                letterGrade = 'D';
-            }
-            else
-            {
-                letterGrade = 'F';               
-            }
-            return letterGrade;
+
+            return;
         }
-        
+
         private int[] populateUnkLength()
         {
             List<int> values = new List<int>();
             string newValue;
-            int[] grades = {};
+            int[] grades = { };
             bool validString = true;
-            while (validString == true)
             {
                 Console.Write("Please enter a value between 1 and 100 then enter a blank line to finish inputting grades: ");
                 newValue = Console.ReadLine();
@@ -88,48 +85,58 @@ namespace ex2a
                     checkValue(valueToAdd);
                     values.Add(valueToAdd);
                 }
-            } 
+            }
             return grades;
         }
 
         private bool checkString(string stringToCheck)
         {
-            try
-            {
-                int checkedInt = int.Parse(stringToCheck);
-                return true;
-            }
-            catch
-            {
-                return false;
-            }
+            bool valid = false;
+            int checkedInt;
+                try
+                {
+                    checkedInt = int.Parse(stringToCheck);
+                    valid = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("This is an invalid value.");
+                    valid = false;
+                }
+            return valid;
         }
 
         private int[] populateArray(int size = 10)
         {
             int[] values = new int[size];
-            for (int runs = 0; runs < size;runs ++)
+            for (int i = 0; i < size;i ++)
             {
-                Console.Write("Please enter a value between 1 and 100: ");
-                string newValue = Console.ReadLine();
-                int valueToAdd = int.Parse(newValue);
-                checkValue(valueToAdd);
-                values[runs] = valueToAdd;
+                int valueToAdd = getValue();
+                values[i] = valueToAdd;
             }
             return values;
         }
-        
+        public int getValue()
+        {
+            Console.Write("Please enter a value between 1 and 100: ");
+            string newValue = Console.ReadLine();
+            while (checkString(newValue) == false) getValue();
+            int valueToAdd = int.Parse(newValue);
+            checkValue(valueToAdd);
+            return valueToAdd;
+        }
+
+
         private int checkValue(int value)
         {
-            if (value < 0 || value > 100)
+            if (value > 100)
             {
                 int newValueForOp = value;
                 do
                 {
                     Console.Write($"The value {value} is not within specified parameters. Please pick a number between 1 and 100: ");
-                    string newValue = Console.ReadLine();
-                    newValueForOp = int.Parse(newValue);
-                } while (newValueForOp > 100 || newValueForOp < 0);
+                    newValueForOp = getValue();
+                } while (newValueForOp >= 100);
                 return newValueForOp;
             }
             else
