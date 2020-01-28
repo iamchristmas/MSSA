@@ -4,8 +4,9 @@ namespace ConsoleApp1
 {
     class Program
     { 
-        static void Main(string[] args)
+        static void Main()
         {
+
             try
             {
                 cOfCircle();
@@ -15,19 +16,22 @@ namespace ConsoleApp1
             }
             catch (FormatException fOe)
             {
-                Console.WriteLine(fOe.Message);
+                Console.WriteLine("You must enter a valid number.");
+                Main();
             }
             catch (ArgumentOutOfRangeException aorOe)
             {
-                Console.WriteLine(aorOe.Message);
+                Console.WriteLine("Your number is out of range.");
+                Main();
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
+                Main();
             }
             finally
             {
-                Console.WriteLine("This program has finally terminated.");
+                Console.WriteLine("Your Number is okay.");
             }
         }
         static void cOfCircle()
@@ -37,6 +41,7 @@ namespace ConsoleApp1
             Console.Write("Enter an integer for the radius: ");
             int intradius = int.Parse(Console.ReadLine());
             double circumference = checked(2 * Math.PI * intradius);
+            if (circumference < 0) throw new ArgumentOutOfRangeException("Area yields a negative value.");
             Console.WriteLine($"The circumference is {circumference}");
 
             // Implementation for area here
@@ -48,6 +53,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(fOe.Message);
             }
+            
         }
         static void vOfHemisphere()
         {
@@ -58,6 +64,7 @@ namespace ConsoleApp1
             try
             {
                 double volume = checked ((2.0 / 3.0) * Math.PI * Math.Pow(intHemRadius, 3));
+                if (volume < 0) throw new ArgumentOutOfRangeException("Area yields a negative value.");
                 Console.WriteLine($"The volume is {volume}");
             }
             catch (FormatException fOe)
@@ -81,7 +88,8 @@ namespace ConsoleApp1
             double halfCirc = (dblSideA + dblSideB + dblSideB) / 2;
             try
             {
-                double areaTriangle = checked (Math.Sqrt(halfCirc * (halfCirc - dblSideA) * (halfCirc - dblSideB) * (halfCirc - dblSideC)));
+                double areaTriangle = checked (Math.Sqrt(halfCirc * (halfCirc - dblSideA) * (halfCirc - dblSideB) * (halfCirc - dblSideC)))
+                if (areaTriangle < 0) throw new ArgumentOutOfRangeException("Area yields a negative value.");
                 Console.WriteLine($"The area is {areaTriangle}");
             }
             catch (FormatException fOe)

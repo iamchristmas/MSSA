@@ -50,8 +50,8 @@ namespace lab2c
             int count = 0;
             for (int i = 0; i < arg; i++)
             {
-                double rand1 = getRandom();
-                double rand2 = getRandom();
+                double r1 = r.next();
+                double r2 = r.next();
                 if (hypotenuse(rand1, rand2) <= 1) count++;
             }
             return count;
@@ -73,9 +73,8 @@ namespace lab2c
 
         private static double getRandom()
         {
-            var r = new Random();
-            double random = r.NextDouble();
-            return random;
+            random r = new Random();
+            return r;
         }
 
     }
