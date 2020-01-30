@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\fibonnaci\\fibonnaci.csproj",
+      "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
       "projectName": "fibonnaci",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\fibonnaci\\fibonnaci.csproj",
+      "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\fibonnaci\\obj\\",
+      "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

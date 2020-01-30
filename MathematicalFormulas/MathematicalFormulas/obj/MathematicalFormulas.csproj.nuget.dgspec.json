@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj": {}
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj": {
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj",
+        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj",
         "projectName": "MathematicalFormulas",
-        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj",
+        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\MathematicalFormulas.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\obj\\",
+        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
