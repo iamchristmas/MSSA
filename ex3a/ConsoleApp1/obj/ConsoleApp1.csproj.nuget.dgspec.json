@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:ex2a/obj/ex2a.csproj.nuget.dgspec.json
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj",
+        "projectName": "ex2a",
+        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj",
+        "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\obj\\",
+=======
     "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
@@ -12,12 +25,13 @@
         "projectPath": "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\obj\\",
+>>>>>>> 03a9410c3860b23bc4fc00d52fda8dc0d27b7066:ex3a/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sticky Keys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -75,10 +75,7 @@ namespace ex2a
                 Console.Write("Please enter a value between 1 and 100 then enter a blank line to finish inputting grades: ");
                 newValue = Console.ReadLine();
                 validString = checkString(newValue);
-                if (validString == false)
-                {
-                    grades = values.ToArray();
-                }
+                if (validString == false){ grades = values.ToArray();}
                 else
                 {
                     int valueToAdd = int.Parse(newValue);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj": {}
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj": {
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj",
-        "projectName": "lab2c",
-        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj",
+        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+        "projectName": "fibonnaci",
+        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\obj\\",
+        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "System.ValueTuple": {
-              "target": "Package",
-              "version": "[4.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

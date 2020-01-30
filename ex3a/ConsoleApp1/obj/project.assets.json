@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:fibonnaci/obj/project.assets.json
+      "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+      "projectName": "fibonnaci",
+      "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+      "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
       "projectPath": "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\smith\\MSSA\\ex3a\\ConsoleApp1\\obj\\",
+>>>>>>> 03a9410c3860b23bc4fc00d52fda8dc0d27b7066:ex3a/ConsoleApp1/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

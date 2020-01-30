@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj": {}
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\temp\\MSSA.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj": {
+    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\temp\\MSSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj",
-        "projectName": "lab2c",
-        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\lab2c.csproj",
+        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\temp\\MSSA.csproj",
+        "projectName": "MSSA",
+        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\temp\\MSSA.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c\\obj\\",
+        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -39,11 +39,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.1": {
           "dependencies": {
-            "System.ValueTuple": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[2.1.0, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -56,11 +58,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
