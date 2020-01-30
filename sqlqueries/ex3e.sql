@@ -44,9 +44,25 @@ GO
 --		) as s
 --order by s.UnitPrice desc
 --4. Using subqueries, create a report that shows the date of the last order by all employees.
-select o.EmployeeID,o.OrderDate
-from	(
-		SELECT OrderDate,EmployeeID
-		FROM Orders
-		where 
-		) as o
+-- select distinct oa.EmployeeID,oa.OrderDate
+-- from dbo.Orders as oa
+-- WHERE oa.OrderDate IN 
+-- (SELECT MAX(OrderDate) FROM  dbo.Orders as o WHERE oa.EmployeeID = o.EmployeeID GROUP BY o.EmployeeID) 
+
+-- 5. Using subqueries, create a line item report that contains a line for each product in the order with the
+-- following columns: the order id, the product id, the unit price, the quantity sold, the line item price,
+-- -- and the percent of that line item constitutes of the total amount of the order.
+SELECT	od.OrderID,
+		od.ProductID,
+		od.UnitPrice,
+		od.quantity,
+		SUM(od.Quantity * od.UnitPrice)as linetotal, 
+		(SUM(od.quantity*unitprice) / total) * 100 as PctOfTotalOrder
+FROM	dbo.[Order Details] as od,
+		(	
+			select SUM(quantity * Unitprice) as total
+			from dbo.[Order Details]
+			Group By OrderID
+		)as t
+Group by OrderID,ProductID,UnitPrice,Quantity
+GO
