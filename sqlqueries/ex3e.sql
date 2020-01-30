@@ -58,9 +58,8 @@ SELECT	od.OrderID,
 		od.UnitPrice,
 		od.quantity,
 		SUM(od.Quantity * od.UnitPrice) as linetotal,
-		CAST((od.Quantity*od.UnitPrice) / (SELECT SUM(ods.Quantity*ods.UnitPrice) * 1/100
+		od.Quantity*od.UnitPrice / (SELECT SUM(ods.Quantity*ods.UnitPrice)
 			FROM dbo.[Order Details] AS ods
-			WHERE od.orderid = ods.orderid)  
-		AS NUMERIC(8,2)) TotalPercentage
+			WHERE od.orderid = ods.orderid) * 100  as PctOfTotalOrder
 FROM	dbo.[Order Details] as od
 group by od.orderid,od.ProductID,od.UnitPrice, od.Quantity
