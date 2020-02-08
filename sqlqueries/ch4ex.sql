@@ -106,4 +106,42 @@ where custid in
 				od.orderid = o.orderid and
 				od.productid = '12'
 			)
-)
+);
+-- Exercise 8------------------------------------------------------
+--Write a query that calculates a running-total quantity for each customer and month:
+Select custid,sum(qty)
+From (
+select o.custid,od.qty
+from sales.orders o
+join sales.orderdetails od
+on od.orderid = o.orderid) c
+group by custid
+
+
+-- Exercise 9------------------------------------------------------
+--Explain the difference between IN and EXISTS.
+--Exist returns a boolean whereas IN is more of a comparitive expression saying that if the declared value is in the subquery, then return that value.
+
+-- Exercise 10------------------------------------------------------
+--Write a query that returns for each order the number of days that passed since the same customer’s
+--previous order. To determine recency among orders, use orderdate as the primary sort element and
+--orderid as the tiebreaker:
+select 
+	d.custid,
+	d.orderid,
+	d.orderdate,
+	datediff(day,e.orderdate,d.orderdate)  as daysincelastorder
+from (select 
+	ROW_NUMBER() over (order by custid,orderdate,orderid asc) Rownum,
+	custid,
+	orderid,
+	orderdate
+from sales.orders)d
+left join (select 
+	ROW_NUMBER() over (order by custid,orderdate,orderid asc) Rownum,
+	custid,
+	orderid,
+	orderdate
+from sales.orders) e
+on d.Rownum = e.Rownum + 1
+and d.custid = e.custid

@@ -17,8 +17,15 @@ select DATEFROMPARTS(YEAR(orderdate), 12, 31)
 FROM Sales.Orders
 )
 
---EXERCISE 2------------------------------------------------------
+--EXERCISE 2-1------------------------------------------------------
 --Write a query that returns the maximum value in the orderdate column for each employee
+
+select empid,max(orderdate) as maxorderdate
+	from sales.orders
+	group by empid
+--EXERCISE 2-2------------------------------------------------------
+--Encapsulate the query from Exercise 2-1 in a derived table. Write a join query between the derived
+--table and the Orders table to return the orders with the maximum order date for each employee:
 select 
 	o.empid,
 	o.orderdate,
@@ -50,11 +57,23 @@ From OrdersRows
 WHERE rownum between 11 and 20
 
 
-
-
-
-
-
-
-
 --EXERCISE 4------------------------------------------------------
+
+--EXERCISE 5------------------------------------------------------
+
+--EXERCISE 6-1 ----------------------------------------------------
+--Create an inline TVF that accepts as inputs a supplier ID (@supid AS INT) and a requested number of
+--products (@n AS INT). The function should return @n products with the highest unit prices that are
+--supplied by the specified supplier ID:
+DROP FUNCTION IF EXISTS Production.TopProducts;
+GO
+CREATE FUNCTION Production.TopProducts
+(@supid AS INT,@N as INT) RETURNS TABLE
+AS
+RETURN
+SELECT TOP (@n) supplierID,unitprice
+FROM Production.Products
+WHERE supplierid = @supid
+order by unitprice desc;
+
+SELECT * FROM Production.TopProducts(5,2);
