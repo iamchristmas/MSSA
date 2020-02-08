@@ -1,7 +1,57 @@
+--Christopher Smith
+--MSSA SD7
+--LAB 4E
+USE Northwind;
+Go
+
+--Create a report that shows the product name and supplier id for all products supplied by Exotic Liquids, Grandma Kelly’s Homestead, and Tokyo Traders.
+Select ProductName,SupplierID
+FROM dbo.Products 
+where supplierid in (
+	select supplierid
+	from dbo.Suppliers  
+	where 
+		SupplierID = 1 or
+		SupplierID = 3 or
+		SupplierID = 4) 
+--Create a report that shows all products by name that are in the Seafood category.
+Select ProductName
+FROM dbo.Products 
+where categoryid = (
+	select categoryid
+	from dbo.Categories
+	where CategoryName like 'Seafood') 
+--Create a report that shows all companies by name that sell products in CategoryID 8.
+Select CompanyName
+FROM dbo.Suppliers
+where supplierid in (
+Select supplierid
+FROM dbo.Products 
+where categoryid = 8
+	)
+--Create a report that shows all companies by name that sell products in the Seafood category.
+Select CompanyName
+FROM dbo.Suppliers
+where supplierid = (
+	select supplierid
+	from dbo.Categories
+	where CategoryName like 'Seafood') 
+--Create a report that lists the ten most expensive products.
+SELECT TOP 10 ProductName,UnitPrice
+FROM (select ProductID, ProductName, UnitPrice
+FROM dbo.Products)p
+order by UnitPrice desc
+--Create a report that shows the date of the last order by all employees.
+select  maxorderdate,EmployeeID
+FROM (select max(OrderDate) as maxorderdate,EmployeeID
+from dbo.Orders
+group by EmployeeID) e
+USE TSQLV4;
+GO
+
 --EXERCISE 1------------------------------------------------------
 --Write a query that returns all orders placed on the last day of activity that can be found in the Orders
 --table:
-
 select
 	orderid,
 	orderdate,
@@ -11,7 +61,7 @@ From Sales.orders
 where orderdate in (
 select 
 	max(orderdate) 
-from sales.orders)
+from sales.orders);
 --EXERCISE 2------------------------------------------------------
 --Write a query that returns all orders placed by the customer(s) who placed the highest number of or-
 --ders. Note that more than one customer might have the same number of orders:
@@ -25,7 +75,7 @@ Where custid in (
 select top (1) WITH TIES custid 
 from sales.orders
 group by custid
-order by COUNT(orderid) DESC)
+order by COUNT(orderid) DESC);
 --EXERCISE 3------------------------------------------------------
 --Write a query that returns employees who did not place orders on or after May 1, 2016:
 select 
@@ -39,7 +89,7 @@ from sales.orders
 group by empid
 ) as o on e.empid = o.empid
 where o.maxorderdate < '20160501'
-order by e.empid
+order by e.empid;
 --EXERCISE 4------------------------------------------------------
 --Write a query that returns countries where there are customers but not employees:
 select 
@@ -48,7 +98,7 @@ from sales.customers as c
 WHERE c.country NOT IN(
 select country
 from hr.Employees
-)
+);
 --EXERCISE 5------------------------------------------------------
 --Write a query that returns for each customer all orders placed on the customer’s last day of activity:
 select 
@@ -65,7 +115,7 @@ group by custid
 ) as m 
 on o.custid = m.custid
 and o.orderdate = m.morderdate
-order by o.custid
+order by o.custid;
 --EXERCISE 6------------------------------------------------------
 --Write a query that returns customers who placed orders in 2015 but not in 2016:
 select 
@@ -85,7 +135,7 @@ from sales.orders o
 where 
 	o.custid = c.custid 
 	AND O.orderdate >= '20160101'
-	AND O.orderdate < '20170101')
+	AND O.orderdate < '20170101');
 --EXERCISE 7------------------------------------------------------
 	--Write a query that returns customers who ordered product 12:
 Select 
@@ -106,4 +156,7 @@ where custid in
 				od.orderid = o.orderid and
 				od.productid = '12'
 			)
-)
+);
+
+
+
