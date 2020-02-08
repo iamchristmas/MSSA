@@ -87,13 +87,27 @@ where country like @SalesCountry
 --in each country. Your report should contain the name of the country, the product id, the product name,
 --and the number of products shipped to customers in that country.
 --Page
-select
- country,
- productid,
- productname,
- sum(od.qty)
- from Production.Products
- Cross apply
+-------ITS WORKING!!!!!!!-------
+---Need all the countries so distinct orders.shipcountry
+Select 
+	distinct oo.shipcountry,
+	a.productid,
+	a.productname,
+	totalunits
+FROM Sales.orders oo
+CROSS APPLY
+--run it against the top 3 for every instance where the outside distinct countries = inside distinct countries
+--almost works like a foreach with the top values being the basis for  the foreach function 
 	(select 
-	From sales.OrderDetails
-	inner join ) as od
+		top (3) o.shipcountry, 
+		sum(od.qty) totalUnits,
+		od.productid,
+		p.productname
+	From sales.Orders o
+	join sales.orderdetails od on o.orderid = od.orderid
+	join Production.Products p on od.productid = p.productid
+	where oo.shipcountry = o.shipcountry
+	group by od.productid,p.productname,o.shipcountry
+	order by totalunits desc
+)a
+order by oo.shipcountry asc,totalunits desc
