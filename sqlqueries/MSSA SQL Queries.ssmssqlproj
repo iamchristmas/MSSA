@@ -19,11 +19,11 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="ch4ex.sql">
+        <FileNode Name="Ch4EX.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>10.0.75.1</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>ch4ex.sql</FullPath>
+          <FullPath>Ch4EX.sql</FullPath>
         </FileNode>
         <FileNode Name="ch5ex.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
@@ -61,6 +61,18 @@
           <AssociatedConnUserName />
           <FullPath>ex4b.sql</FullPath>
         </FileNode>
+        <FileNode Name="ex4c.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.75.1</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ex4c.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ex4e.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.75.1</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ex4e.sql</FullPath>
+        </FileNode>
         <FileNode Name="ex4g.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>10.0.75.1</AssociatedConnSrvName>
@@ -84,12 +96,6 @@
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>lab3b.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery1.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.75.1:False:sa</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>10.0.75.1</AssociatedConnSrvName>
-          <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

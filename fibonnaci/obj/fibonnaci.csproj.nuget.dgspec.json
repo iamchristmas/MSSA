@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj": {}
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\fibonnaci\\fibonnaci.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj": {
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\fibonnaci\\fibonnaci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\fibonnaci\\fibonnaci.csproj",
         "projectName": "fibonnaci",
-        "projectPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\fibonnaci\\fibonnaci.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sticky Keys\\source\\repos\\MSSA\\fibonnaci\\obj\\",
+        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\fibonnaci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MSSA_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ex2a\**" />
+    <Compile Remove="ex2c\**" />
+    <Compile Remove="ex3a\**" />
+    <Compile Remove="Farm\**" />
+    <Compile Remove="fibonnaci\**" />
+    <Compile Remove="HelloWorld\**" />
+    <Compile Remove="Hello\**" />
+    <Compile Remove="lab2c\**" />
+    <EmbeddedResource Remove="ex2a\**" />
+    <EmbeddedResource Remove="ex2c\**" />
+    <EmbeddedResource Remove="ex3a\**" />
+    <EmbeddedResource Remove="Farm\**" />
+    <EmbeddedResource Remove="fibonnaci\**" />
+    <EmbeddedResource Remove="HelloWorld\**" />
+    <EmbeddedResource Remove="Hello\**" />
+    <EmbeddedResource Remove="lab2c\**" />
+    <None Remove="ex2a\**" />
+    <None Remove="ex2c\**" />
+    <None Remove="ex3a\**" />
+    <None Remove="Farm\**" />
+    <None Remove="fibonnaci\**" />
+    <None Remove="HelloWorld\**" />
+    <None Remove="Hello\**" />
+    <None Remove="lab2c\**" />
+  </ItemGroup>
+
+</Project>
