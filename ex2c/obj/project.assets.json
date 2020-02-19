@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex2c\\ex2c.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj",
       "projectName": "ex2c",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex2c\\ex2c.csproj",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex2c\\obj\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

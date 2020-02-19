@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Farm\\Farm.csproj": {}
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Farm\\Farm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Farm\\Farm.csproj": {
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Farm\\Farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Farm\\Farm.csproj",
+        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Farm\\Farm.csproj",
         "projectName": "Farm",
-        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Farm\\Farm.csproj",
+        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Farm\\Farm.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Farm\\obj\\",
+        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Farm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

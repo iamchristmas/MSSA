@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Hello\\Hello.csproj": {}
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Hello\\Hello.csproj": {
+    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Hello\\Hello.csproj",
+        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\Hello\\obj\\",
+        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

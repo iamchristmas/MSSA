@@ -1,12 +1,12 @@
 --EXERCISE 1------------------------------------------------------
---The following query attempts to filter orders that were not placed on the last day of the year. It’s supposed to return the order ID, order date, customer ID, employee ID, and respective end-of-year date for each order:
+--The following query attempts to filter orders that were not placed on the last day of the year. Itï¿½s supposed to return the order ID, order date, customer ID, employee ID, and respective end-of-year date for each order:
 	--SELECT orderid, orderdate, custid, empid,
 	--DATEFROMPARTS(YEAR(orderdate), 12, 31) AS endofyear
 	--FROM Sales.Orders
 	--WHERE orderdate <> endofyear;
 --When you try to run this query, you get the following error:
 --Msg 207, Level 16, State 1, Line 233
---Invalid column name ‘endofyear'.
+--Invalid column name ï¿½endofyear'.
 --Explain what the problem is, and suggest a valid solution.
 
 --Since endofyear is used in the where statement, the statement cannot be filtered properly. You would need a subquery like the following:
@@ -70,7 +70,8 @@ GO
 CREATE FUNCTION Production.TopProducts
 (@supid AS INT,@N as INT) RETURNS TABLE
 AS
-RETURN
+RETURN;
+
 SELECT TOP (@n) supplierID,unitprice
 FROM Production.Products
 WHERE supplierid = @supid

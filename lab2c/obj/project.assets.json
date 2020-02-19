@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\lab2c\\lab2c.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c.csproj",
       "projectName": "lab2c",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\lab2c\\lab2c.csproj",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\lab2c.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\lab2c\\obj\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\lab2c\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

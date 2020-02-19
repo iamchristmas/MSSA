@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

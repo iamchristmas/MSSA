@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\MathematicalFormulas\\MathematicalFormulas.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
       "projectName": "MathematicalFormulas",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\MathematicalFormulas\\MathematicalFormulas.csproj",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\MathematicalFormulas\\obj\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\MathematicalFormulas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

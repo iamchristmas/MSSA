@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex3a\\ex3a.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex3a\\ex3a.csproj",
       "projectName": "ex3a",
-      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex3a\\ex3a.csproj",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex3a\\ex3a.csproj",
       "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA-\\ex3a\\obj\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex3a\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
