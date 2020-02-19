@@ -9,3 +9,8 @@ C:\Users\smith\MSSA\lab2c\lab2c\bin\Debug\netcoreapp3.1\lab2c.dll
 C:\Users\smith\MSSA\lab2c\lab2c\bin\Debug\netcoreapp3.1\lab2c.pdb
 C:\Users\smith\MSSA\lab2c\lab2c\obj\Debug\netcoreapp3.1\lab2c.dll
 C:\Users\smith\MSSA\lab2c\lab2c\obj\Debug\netcoreapp3.1\lab2c.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.dll
+C:\Users\Sticky Keys\source\repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.pdb

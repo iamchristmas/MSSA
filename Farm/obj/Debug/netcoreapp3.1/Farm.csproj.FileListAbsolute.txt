@@ -9,3 +9,14 @@ C:\Users\smith\source\repos\MSSA\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Assembly
 C:\Users\smith\source\repos\MSSA\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
 C:\Users\smith\source\repos\MSSA\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.dll
 C:\Users\smith\source\repos\MSSA\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Sticky Keys\source\repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.pdb

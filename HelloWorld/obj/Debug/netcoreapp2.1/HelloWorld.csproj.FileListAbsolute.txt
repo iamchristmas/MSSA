@@ -8,3 +8,8 @@ C:\Users\smith\MSSA\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
 C:\Users\smith\MSSA\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
 C:\Users\smith\MSSA\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
 C:\Users\smith\MSSA\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\MSSA\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Sticky Keys\source\repos\MSSA\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb

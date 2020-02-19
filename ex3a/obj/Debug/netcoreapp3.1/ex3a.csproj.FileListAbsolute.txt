@@ -1,0 +1,3 @@
+C:\Users\Sticky Keys\source\repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfo.cs

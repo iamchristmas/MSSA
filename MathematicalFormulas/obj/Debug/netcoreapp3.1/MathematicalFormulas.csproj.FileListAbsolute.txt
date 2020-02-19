@@ -19,3 +19,14 @@ C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\MathematicalFormulas
 C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
 C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
 C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.exe
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.deps.json
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.json
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\Sticky Keys\source\repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb

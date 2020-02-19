@@ -1,0 +1,11 @@
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.exe
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.deps.json
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.runtimeconfig.json
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.runtimeconfig.dev.json
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.dll
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\bin\Debug\netcoreapp3.1\ex2a.pdb
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.csprojAssemblyReference.cache
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.AssemblyInfoInputs.cache
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.AssemblyInfo.cs
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.dll
+C:\Users\Sticky Keys\source\repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.pdb
