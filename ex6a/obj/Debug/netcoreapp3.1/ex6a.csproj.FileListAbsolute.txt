@@ -6,3 +6,11 @@ C:\Users\Sticky Keys\source\repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.Assembl
 C:\Users\Sticky Keys\source\repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.dll
 C:\Users\Sticky Keys\source\repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.pdb
 C:\Users\Sticky Keys\source\repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.csprojAssemblyReference.cache
+C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.csprojAssemblyReference.cache
+C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfoInputs.cache
+C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfo.cs
+C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.dll
+C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.pdb
+C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.deps.json
+C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.dll
+C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.pdb

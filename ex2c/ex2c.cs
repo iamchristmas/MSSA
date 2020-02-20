@@ -1,29 +1,58 @@
-﻿/*
-Syntactic sugar is the ability to write cleaner code allowing it to be more clear and concise to the reviewer. 
-This is enabled by overloaded classes who remove the need to pass already known values as parameters in a method.
+﻿using System;
+using System.Collections.Generic;
 
 
-*/
-using System;
-
-namespace ex2c
+public class Evaluator
 {
-    class ex2c
+    public static void Main(string[] args)
     {
-        static void Main()
+        string maths = "1 + 3 * 2 - 2"; // 5
+        Console.WriteLine(Evaluate(maths));
+    }
+    public static double Evaluate(string dostuff)
+    {
+        List<string> math = new List<string> (dostuff.Split(" "));
+        int res;
+        while (math.Contains("*") || math.Contains("/"))
         {
-            enlistedRankParam("Sgt",5);
-            enlistedRankOverload("PVT");
+            for (int i = 0; i < math.Count; i++)
+            {
+                if (math[i] == "*")
+                {
+                    res = int.Parse(math[i - 1]) * int.Parse(math[i + 1]);
+                    math[i] = res.ToString();
+                    math.RemoveAt(i + 1);
+                    math.RemoveAt(i - 1);
+                }
+                else if (math[i] == "/")
+                {
+                    res = int.Parse(math[i - 1]) / int.Parse(math[i + 1]);
+                    math[i] = res.ToString();
+                    math.RemoveAt(i + 1);
+                    math.RemoveAt(i - 1);
+                }
+            }
+            while (math.Contains("+") || math.Contains("-"))
+            {
+                for (int i = 0; i < math.Count; i++)
+                {
+                    if (math[i] == "+")
+                    {
+                        res = int.Parse(math[i - 1]) + int.Parse(math[i + 1]);
+                        math[i] = res.ToString();
+                        math.RemoveAt(i + 1);
+                        math.RemoveAt(i - 1);
+                    }
+                    else if (math[i] == "-")
+                    {
+                        res = int.Parse(math[i - 1]) - int.Parse(math[i + 1]);
+                        math[i] = res.ToString();
+                        math.RemoveAt(i + 1);
+                        math.RemoveAt(i - 1);
+                    };
+                }
+            }
         }
-
-        public static void enlistedRankParam(string rank, int payGrade)
-        {
-            Console.WriteLine($"The rank {rank} equals E-{payGrade}");
-        }
-
-        public static void enlistedRankOverload(string rank = "PVT", int payGrade = 1)
-        {
-            Console.WriteLine($"The rank {rank} equals E-{payGrade}");
-        }
+        return int.Parse(math[0]);
     }
 }

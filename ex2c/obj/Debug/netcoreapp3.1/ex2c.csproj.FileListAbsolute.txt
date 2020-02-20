@@ -20,3 +20,14 @@ C:\Users\Sticky Keys\source\repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.Assembl
 C:\Users\Sticky Keys\source\repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfo.cs
 C:\Users\Sticky Keys\source\repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.dll
 C:\Users\Sticky Keys\source\repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.pdb
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.exe
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.deps.json
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.runtimeconfig.json
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.runtimeconfig.dev.json
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.dll
+C:\Users\smith\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.pdb
+C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.csprojAssemblyReference.cache
+C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfoInputs.cache
+C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfo.cs
+C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.dll
+C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.pdb

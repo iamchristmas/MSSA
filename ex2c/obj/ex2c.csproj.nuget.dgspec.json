@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj": {}
+    "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2c\\ex2c.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj": {
+    "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2c\\ex2c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2c\\ex2c.csproj",
         "projectName": "ex2c",
-        "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\ex2c.csproj",
-        "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2c\\obj\\",
+        "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2c\\ex2c.csproj",
+        "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2c\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sticky Keys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

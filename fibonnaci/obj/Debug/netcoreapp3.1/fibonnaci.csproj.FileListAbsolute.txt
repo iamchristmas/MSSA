@@ -9,3 +9,14 @@ C:\Users\Sticky Keys\source\repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonna
 C:\Users\Sticky Keys\source\repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
 C:\Users\Sticky Keys\source\repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
 C:\Users\Sticky Keys\source\repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.exe
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.deps.json
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.json
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.dev.json
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.csprojAssemblyReference.cache
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb

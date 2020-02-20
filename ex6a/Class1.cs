@@ -30,7 +30,7 @@
             for(int i = 0; i < arr.Length; i++)
             {
                 if (i + mov > arr.Length - 1 || i + mov < arr.Length - 1)
-                    outarr.SetValue(arr[i],);
+                    outarr.SetValue(arr[i],1);
             }
 
 
@@ -39,7 +39,20 @@
         //Write a method that takes an unsorted integer array and prints a sorted array. Use Array C as your test array. Do you recognize this list of numbers?
         public static int[] Sort(int[] arr)
         {
-
+            int p;
+            for (int i = 0;i<arr.Length-1;i++)
+            {
+                for (int x = 0; x < arr.Length - i - 1; x++)
+                {
+                    if(arr[x] > arr[x+1])
+                    {
+                        p = arr[x];
+                        arr[x] = arr[x + 1];
+                        arr[x + 1] = p;
+                    }
+                }
+            }
+            return arr;
         }
     }
 }
