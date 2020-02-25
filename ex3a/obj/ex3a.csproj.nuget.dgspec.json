@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex3a\\ex3a.csproj": {}
+    "C:\\Users\\smith\\source\\repos\\MSSA\\ex3a\\ex3a.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex3a\\ex3a.csproj": {
+    "C:\\Users\\smith\\source\\repos\\MSSA\\ex3a\\ex3a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex3a\\ex3a.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\source\\repos\\MSSA\\ex3a\\ex3a.csproj",
         "projectName": "ex3a",
-        "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex3a\\ex3a.csproj",
+        "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\ex3a\\ex3a.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex3a\\obj\\",
+        "outputPath": "C:\\Users\\smith\\source\\repos\\MSSA\\ex3a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

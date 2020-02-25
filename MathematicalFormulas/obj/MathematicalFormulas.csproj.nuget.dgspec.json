@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj": {}
+    "C:\\Users\\smith\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj": {
+    "C:\\Users\\smith\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
         "projectName": "MathematicalFormulas",
-        "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
+        "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\MathematicalFormulas\\MathematicalFormulas.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\MathematicalFormulas\\obj\\",
+        "outputPath": "C:\\Users\\smith\\source\\repos\\MSSA\\MathematicalFormulas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
