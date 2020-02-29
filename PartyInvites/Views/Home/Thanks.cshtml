@@ -1,0 +1,34 @@
+﻿@model PartyInvites.Models.GuestResponse
+
+@{
+    ViewData["Title"] = "Thanks";
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Christopher Smith</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="text-md-center">
+    <p>
+        <h1>Thank you, @Model.Name!</h1>
+        @if  (Model.WillAttend == true)
+        {
+            @:Totally tubular. Remember to be excellent.
+        }
+        else
+        {
+            @:Bummer man, don't forget to practice Stairway.
+        }
+    </p>
+    Click<a class="nav-link" asp-action="ListResponses">here</a> to see who's coming
+</body>
+</html>
+
+<div>
+    <a asp-action="Index">Back to home</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

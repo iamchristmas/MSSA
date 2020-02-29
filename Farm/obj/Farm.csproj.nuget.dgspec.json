@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj": {}
+    "C:\\Users\\smith\\source\\repos\\MSSA\\Farm\\Farm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj": {
+    "C:\\Users\\smith\\source\\repos\\MSSA\\Farm\\Farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\source\\repos\\MSSA\\Farm\\Farm.csproj",
         "projectName": "Farm",
-        "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
+        "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\Farm\\Farm.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\obj\\",
+        "outputPath": "C:\\Users\\smith\\source\\repos\\MSSA\\Farm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

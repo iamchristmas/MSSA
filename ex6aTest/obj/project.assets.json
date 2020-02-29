@@ -6835,11 +6835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
+      "projectUniqueName": "C:\\Users\\smith\\source\\repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
       "projectName": "ex6aTest",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
+      "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex6aTest\\obj\\",
+      "outputPath": "C:\\Users\\smith\\source\\repos\\MSSA\\ex6aTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6858,8 +6858,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex6a\\ex6a.csproj": {
-              "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex6a\\ex6a.csproj"
+            "C:\\Users\\smith\\source\\repos\\MSSA\\ex6a\\ex6a.csproj": {
+              "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\ex6a\\ex6a.csproj"
             }
           }
         }
