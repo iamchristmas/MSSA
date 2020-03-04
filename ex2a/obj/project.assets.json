@@ -196,7 +196,7 @@
       ]
     },
     "System.Collections/4.3.0": {
-      "sha512": "3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "sha512": "JHx7ZbdDIowNzZsxvrxJqlNhpwUEUm7yLOYPOrj0N46b4cth8W6SlVmI/iA4I6sIgYXBZOidTZ1coe2mJWvfrg==",
       "type": "package",
       "path": "system.collections/4.3.0",
       "files": [
@@ -263,7 +263,7 @@
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
-      "sha512": "ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
+      "sha512": "tSsBeO3f7YPc7xOpvNSH2Um7Cc6w739ubfHGijKIET6JEb/10uh1oIv2pVkdC7jolMYscoqp0Mq/Fyod04jv+Q==",
       "type": "package",
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
@@ -479,7 +479,7 @@
       ]
     },
     "System.Linq/4.3.0": {
-      "sha512": "5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
+      "sha512": "Hpvybi4gw5BAo6MRAJ0boyXxrVLdDyFIOhmRH8RpO2+9D8nRrhCMYcSSgweOzMwf+hTnW9piuaIXOWkAH/bRug==",
       "type": "package",
       "path": "system.linq/4.3.0",
       "files": [
@@ -688,7 +688,7 @@
       ]
     },
     "System.Resources.ResourceManager/4.3.0": {
-      "sha512": "/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
+      "sha512": "MFc4pjZw2lo2heKY+chANSO3e/bUhv67BSj+n3AeWlw3eTAIdTZs5coRKsMCmmjdBslzDuhrawNWqnSazy8Ffg==",
       "type": "package",
       "path": "system.resources.resourcemanager/4.3.0",
       "files": [
@@ -836,7 +836,7 @@
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
-      "sha512": "guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+      "sha512": "6iHfIS86292tppqv4c9G5pUM9lmNa+MtoEvPoAmQLcj3q+gqeTKOg3eLIqgFni+p/wjZPl5eNu5bfNNoGC9s5Q==",
       "type": "package",
       "path": "system.runtime.extensions/4.3.0",
       "files": [
@@ -1058,23 +1058,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\smith\\.nuget\\packages\\": {},
+    "C:\\Users\\Sticky Keys\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2a\\ex2a.csproj",
+      "projectUniqueName": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj",
       "projectName": "ex2a",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2a\\ex2a.csproj",
-      "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\ex2a\\obj\\",
+      "projectPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\ex2a.csproj",
+      "packagesPath": "C:\\Users\\Sticky Keys\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sticky Keys\\source\\repos\\MSSA\\ex2a\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sticky Keys\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
