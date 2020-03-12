@@ -31,3 +31,14 @@ C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfoI
 C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfo.cs
 C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.dll
 C:\Users\smith\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.pdb
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.exe
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.deps.json
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.runtimeconfig.json
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.runtimeconfig.dev.json
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.dll
+C:\Source\Repos\MSSA\ex2c\bin\Debug\netcoreapp3.1\ex2c.pdb
+C:\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.csprojAssemblyReference.cache
+C:\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.AssemblyInfo.cs
+C:\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.dll
+C:\Source\Repos\MSSA\ex2c\obj\Debug\netcoreapp3.1\ex2c.pdb

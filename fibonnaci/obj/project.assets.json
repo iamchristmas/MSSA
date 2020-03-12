@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
       "projectName": "fibonnaci",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
+      "projectPath": "C:\\Source\\Repos\\MSSA\\fibonnaci\\fibonnaci.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\fibonnaci\\obj\\",
+      "outputPath": "C:\\Source\\Repos\\MSSA\\fibonnaci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

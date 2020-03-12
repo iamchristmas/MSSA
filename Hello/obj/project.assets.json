@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
+      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
       "projectName": "Hello",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
+      "projectPath": "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Hello\\obj\\",
+      "outputPath": "C:\\Source\\Repos\\MSSA\\Hello\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

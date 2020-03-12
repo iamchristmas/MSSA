@@ -20,3 +20,13 @@ C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.Ass
 C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
 C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
 C:\Users\smith\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.exe
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.deps.json
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.json
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.runtimeconfig.dev.json
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Source\Repos\MSSA\fibonnaci\bin\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
+C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
+C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb

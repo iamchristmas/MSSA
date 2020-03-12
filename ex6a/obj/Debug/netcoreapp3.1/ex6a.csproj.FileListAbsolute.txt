@@ -14,3 +14,11 @@ C:\Users\smith\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.pdb
 C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.deps.json
 C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.dll
 C:\Users\smith\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.pdb
+C:\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.deps.json
+C:\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.dll
+C:\Source\Repos\MSSA\ex6a\bin\Debug\netcoreapp3.1\ex6a.pdb
+C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.csprojAssemblyReference.cache
+C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfo.cs
+C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.dll
+C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.pdb

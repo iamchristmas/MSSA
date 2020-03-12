@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
+      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
       "projectName": "Farm",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
+      "projectPath": "C:\\Source\\Repos\\MSSA\\Farm\\Farm.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\Farm\\obj\\",
+      "outputPath": "C:\\Source\\Repos\\MSSA\\Farm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

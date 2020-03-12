@@ -19,3 +19,8 @@ C:\Users\smith\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInf
 C:\Users\smith\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfo.cs
 C:\Users\smith\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.dll
 C:\Users\smith\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.pdb
+C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.csprojAssemblyReference.cache
+C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfo.cs
+C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.dll
+C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.pdb

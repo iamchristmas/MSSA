@@ -41,3 +41,13 @@ C:\Users\smith\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\Ma
 C:\Users\smith\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
 C:\Users\smith\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
 C:\Users\smith\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.exe
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.deps.json
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.json
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Source\Repos\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
+C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb

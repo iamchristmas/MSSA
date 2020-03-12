@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smith\\Source\\Repos\\MSSA\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Source\\Repos\\MSSA\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

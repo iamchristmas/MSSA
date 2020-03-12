@@ -31,3 +31,13 @@ C:\Users\smith\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoI
 C:\Users\smith\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
 C:\Users\smith\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.dll
 C:\Users\smith\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Source\Repos\MSSA\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Source\Repos\MSSA\Farm\obj\Debug\netcoreapp3.1\Farm.pdb

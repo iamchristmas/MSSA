@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smith\\source\\repos\\MSSA\\Hello\\Hello.csproj": {}
+    "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smith\\source\\repos\\MSSA\\Hello\\Hello.csproj": {
+    "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smith\\source\\repos\\MSSA\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\smith\\source\\repos\\MSSA\\Hello\\Hello.csproj",
+        "projectPath": "C:\\Source\\Repos\\MSSA\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smith\\source\\repos\\MSSA\\Hello\\obj\\",
+        "outputPath": "C:\\Source\\Repos\\MSSA\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
