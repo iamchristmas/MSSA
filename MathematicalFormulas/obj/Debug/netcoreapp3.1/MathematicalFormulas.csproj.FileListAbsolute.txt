@@ -51,3 +51,5 @@ C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFo
 C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
 C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
 C:\Source\Repos\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\smith\Source\Repos\mssa\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csproj.CoreCompileInputs.cache
+C:\Users\smith\Source\Repos\mssa\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.genruntimeconfig.cache

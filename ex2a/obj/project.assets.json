@@ -1064,11 +1064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\ex2a\\ex2a.csproj",
+      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex2a\\ex2a.csproj",
       "projectName": "ex2a",
-      "projectPath": "C:\\Source\\Repos\\MSSA\\ex2a\\ex2a.csproj",
+      "projectPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex2a\\ex2a.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Repos\\MSSA\\ex2a\\obj\\",
+      "outputPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex2a\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1118,7 +1118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

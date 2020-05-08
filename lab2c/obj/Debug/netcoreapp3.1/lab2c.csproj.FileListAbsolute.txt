@@ -24,3 +24,4 @@ C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfoInputs.cach
 C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.AssemblyInfo.cs
 C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.dll
 C:\Source\Repos\MSSA\lab2c\obj\Debug\netcoreapp3.1\lab2c.pdb
+C:\Users\smith\Source\Repos\mssa\lab2c\obj\Debug\netcoreapp3.1\lab2c.csproj.CoreCompileInputs.cache

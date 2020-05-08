@@ -31,3 +31,5 @@ C:\Source\Repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.AssemblyInfoInputs.cache
 C:\Source\Repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.AssemblyInfo.cs
 C:\Source\Repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.dll
 C:\Source\Repos\MSSA\ex2a\obj\Debug\netcoreapp3.1\ex2a.pdb
+C:\Users\smith\Source\Repos\mssa\ex2a\obj\Debug\netcoreapp3.1\ex2a.csproj.CoreCompileInputs.cache
+C:\Users\smith\Source\Repos\mssa\ex2a\obj\Debug\netcoreapp3.1\ex2a.genruntimeconfig.cache

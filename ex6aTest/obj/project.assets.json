@@ -6835,11 +6835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
+      "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex6aTest\\ex6aTest.csproj",
       "projectName": "ex6aTest",
-      "projectPath": "C:\\Source\\Repos\\MSSA\\ex6aTest\\ex6aTest.csproj",
+      "projectPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex6aTest\\ex6aTest.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Repos\\MSSA\\ex6aTest\\obj\\",
+      "outputPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex6aTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6858,8 +6858,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Source\\Repos\\MSSA\\ex6a\\ex6a.csproj": {
-              "projectPath": "C:\\Source\\Repos\\MSSA\\ex6a\\ex6a.csproj"
+            "C:\\Users\\smith\\Source\\Repos\\mssa\\ex6a\\ex6a.csproj": {
+              "projectPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\ex6a\\ex6a.csproj"
             }
           }
         }
@@ -6905,7 +6905,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -280,3 +280,5 @@ C:\Source\Repos\MSSA\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.AssemblyInfo.cs
 C:\Source\Repos\MSSA\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.csproj.CopyComplete
 C:\Source\Repos\MSSA\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.dll
 C:\Source\Repos\MSSA\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.pdb
+C:\Users\smith\Source\Repos\mssa\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.csproj.CoreCompileInputs.cache
+C:\Users\smith\Source\Repos\mssa\ex6aTest\obj\Debug\netcoreapp3.1\ex6aTest.genruntimeconfig.cache

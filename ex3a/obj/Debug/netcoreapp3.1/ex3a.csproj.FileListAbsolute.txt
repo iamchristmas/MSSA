@@ -7,3 +7,4 @@ C:\Users\smith\Source\Repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfo.
 C:\Source\Repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.csprojAssemblyReference.cache
 C:\Source\Repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfoInputs.cache
 C:\Source\Repos\MSSA\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfo.cs
+C:\Users\smith\Source\Repos\mssa\ex3a\obj\Debug\netcoreapp3.1\ex3a.csproj.CoreCompileInputs.cache

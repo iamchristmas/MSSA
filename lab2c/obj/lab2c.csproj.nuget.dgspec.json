@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Repos\\MSSA\\lab2c\\lab2c.csproj": {}
+    "C:\\Users\\smith\\Source\\Repos\\mssa\\lab2c\\lab2c.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Repos\\MSSA\\lab2c\\lab2c.csproj": {
+    "C:\\Users\\smith\\Source\\Repos\\mssa\\lab2c\\lab2c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Repos\\MSSA\\lab2c\\lab2c.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\mssa\\lab2c\\lab2c.csproj",
         "projectName": "lab2c",
-        "projectPath": "C:\\Source\\Repos\\MSSA\\lab2c\\lab2c.csproj",
+        "projectPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\lab2c\\lab2c.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Repos\\MSSA\\lab2c\\obj\\",
+        "outputPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\lab2c\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -30,3 +30,5 @@ C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfoInp
 C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.AssemblyInfo.cs
 C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.dll
 C:\Source\Repos\MSSA\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.pdb
+C:\Users\smith\Source\Repos\mssa\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\smith\Source\Repos\mssa\fibonnaci\obj\Debug\netcoreapp3.1\fibonnaci.genruntimeconfig.cache

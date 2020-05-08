@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\smith\\Source\\Repos\\mssa\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\smith\\Source\\Repos\\mssa\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\smith\\Source\\Repos\\mssa\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Source\\Repos\\MSSA\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Repos\\MSSA\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\smith\\Source\\Repos\\mssa\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

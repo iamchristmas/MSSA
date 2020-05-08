@@ -22,3 +22,4 @@ C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfoInputs.cache
 C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.AssemblyInfo.cs
 C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.dll
 C:\Source\Repos\MSSA\ex6a\obj\Debug\netcoreapp3.1\ex6a.pdb
+C:\Users\smith\Source\Repos\mssa\ex6a\obj\Debug\netcoreapp3.1\ex6a.csproj.CoreCompileInputs.cache
